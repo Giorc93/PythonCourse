@@ -22,3 +22,13 @@ print(myCar.running)
 
 myCar.startEng()
 print(myCar.engStat())
+
+# Creating another object
+
+myCar2 = Car()
+
+print(myCar2.height)
+print(myCar2.wheels)
+print(myCar2.running)
+
+print(myCar2.engStat())
