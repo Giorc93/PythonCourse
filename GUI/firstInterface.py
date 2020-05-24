@@ -25,3 +25,4 @@ myFrame.config(width="650", height="350")  # Frame size
 # Config can be applied to root
 
 root.mainloop()  # Infinite loop the catch all the actions (events)
+
